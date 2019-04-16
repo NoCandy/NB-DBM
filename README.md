@@ -15,3 +15,5 @@ DBM_Karazhan - 10bosses in Karazan atm
 DBM_Serpentshrine - 6 bosses in SSC
 
 DBM_TheEye - 4 bosses in TK
+
+DBM_Hyjal - 2 bosses in MH W.I.P
