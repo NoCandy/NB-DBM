@@ -10,7 +10,7 @@ Contents:
 
 DBM_Outlands - High King Maulgar, Gruul the Dragonkiller and Magtheridon.
 
-DBM_Karazhan - 11 bosses in Karazan
+DBM_Karazhan - 10bosses in Karazan atm
 
 DBM_Serpentshrine - 6 bosses in SSC
 
